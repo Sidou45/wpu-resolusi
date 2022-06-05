@@ -3,3 +3,4 @@ RENCAN KONTEN
 - video css
 - video php
 - javascript
+- data structure
