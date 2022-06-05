@@ -2,3 +2,4 @@ RENCAN KONTEN
 - video html
 - video css
 - video php
+- javascript
